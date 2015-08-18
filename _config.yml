@@ -1,0 +1,28 @@
+# Site settings
+title: "Nayyir Jutha"
+email: nayyir.jutha@gmail.com
+description: "A simple site to showcase my talent."
+baseurl: ""
+url: "http://rh0delta.github.io"
+title_description: "Junior Developer with a knack for back-end development."
+title_image: "http://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
+github_repository: https://github.com/rh0delta/rh0delta.github.io
+addthis_id: ra-513c6fa83da6ec67
+post_limit: 5
+
+# Social usernames/URLs
+twitter_username: njuts
+github_username:  rh0delta
+linkedin_link: http://linkedin.com/in/nayyirjutha
+stackoverflow_link: http://stackoverflow.com/users/4297487/rh0delta?tab=profile
+
+# Footer
+footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/rh0delta\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+
+# Build settings
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+permalink: pretty
+exclude: [vendor]
