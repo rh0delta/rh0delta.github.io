@@ -4,7 +4,7 @@ title: "My Work With Ruby"
 date: 2015-08-09 20:59:36
 author: Nayyir Jutha
 summary: Showcasing basic starter projects for learning the programming language Ruby. 
-categories: jekyll
+categories: ruby
 thumbnail: heart
 tags:
  - work
