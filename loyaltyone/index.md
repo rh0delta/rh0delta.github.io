@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "LoyaltyOne"
 date: 2015-09-01 18:36:52
 author: Nayyir Jutha
