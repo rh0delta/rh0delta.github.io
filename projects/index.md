@@ -5,7 +5,7 @@ date: 2015-08-18 18:36:52
 author: Nayyir Jutha
 summary: Current projects I have been working on. 
 categories: jekyll
-thumbnail: ruby
+thumbnail: ruby_lang 
 tags:
  - sinatra
  - rails

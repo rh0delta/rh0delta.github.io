@@ -5,7 +5,7 @@ date: 2015-08-22 18:55:34
 author: Nayyir Jutha
 summary: Showcasing basic starter projects for learning the programming language Javascript. 
 categories: javascript
-thumbnail: heart
+thumbnail: javascript
 tags:
  - work
  - with

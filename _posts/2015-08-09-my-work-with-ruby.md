@@ -5,7 +5,7 @@ date: 2015-08-09 20:59:36
 author: Nayyir Jutha
 summary: Showcasing basic starter projects for learning the programming language Ruby. 
 categories: ruby
-thumbnail: heart
+thumbnail: ruby_lang
 tags:
  - work
  - with
